@@ -1,10 +1,10 @@
 # Algorithm
 
-Algorithm learning and recording.
+`@author` `tag`
 
 ---
 
-[TOC]
+Algorithm learning and recording.
 
 ---
 
