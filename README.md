@@ -24,3 +24,5 @@ Algorithm learning and recording.
 ### 自然语言处理 Natural Language Process
 
 ### 深度学习 Deep Learning
+
+### 采样 Sampling
