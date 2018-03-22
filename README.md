@@ -1,12 +1,14 @@
 # Algorithm
 Algorithm learning and recording.
 
-## 数据结构
+## 数据结构 DataStructure
 
-## 排序算法
+1. 单链表 SingleLink
 
-## 推荐算法和系统
+## 排序算法 Sort Algorithm
 
-## 自然语言处理
+## 推荐算法和系统 Recommend Algorithm & System
 
-## 深度学习
+## 自然语言处理 Natural Language Process
+
+## 深度学习 Deep Learning
