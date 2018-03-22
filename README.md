@@ -17,6 +17,7 @@ Algorithm learning and recording.
 
 1. 冒泡排序 BubbleSort
 2. 选择排序 SelectSort
+3. 快速排序 QuickSort
 
 ### 推荐算法和系统 Recommend Algorithm & System
 
