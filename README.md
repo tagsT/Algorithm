@@ -1,5 +1,13 @@
 # Algorithm
+
 Algorithm learning and recording.
+
+---
+
+[TOC]
+
+---
+
 
 ### 数据结构 DataStructure
 
