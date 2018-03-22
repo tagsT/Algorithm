@@ -15,6 +15,9 @@ Algorithm learning and recording.
 
 ### 排序算法 Sort Algorithm
 
+1. 冒泡排序 BubbleSort
+2. 选择排序 SelectSort
+
 ### 推荐算法和系统 Recommend Algorithm & System
 
 ### 自然语言处理 Natural Language Process
