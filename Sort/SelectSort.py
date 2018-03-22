@@ -13,6 +13,9 @@ import random
 loop1 n次，n为列表长度
 loop2 从loop1的递增位数i开始，因为最小或最大数已经在前面
 
+时间复杂度O(n^2)
+空间复杂度O(1)
+
 """
 
 
@@ -26,7 +29,6 @@ def selectSort(l):
     return l
 
 def main():
-
     l = [random.randint(0,100) for x in range(10)]
     print(l)
     print(selectSort(l))

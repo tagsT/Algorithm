@@ -14,6 +14,8 @@ import random
 loop1 n次，n为列表长度
 loop2 n-1-i次，i为loop1的递增位数，因为最大或最小的数在上一轮循环已经放到最后
 
+时间复杂度O(n^2)
+空间复杂度O(1)
 
 """
 
@@ -28,7 +30,6 @@ def bubbleSort(l):
     return l
 
 def main():
-
     l = [random.randint(0,100) for x in range(10)]
     print(l)
     print(bubbleSort(l))
